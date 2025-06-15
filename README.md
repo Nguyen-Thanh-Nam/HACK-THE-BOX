@@ -1,4 +1,4 @@
-# HACK-THE-BOX Write up for some pwn challenge
+# HACK-THE-BOX write up for some pwn challenges
 
 ## CTF TRY OUT
 ### Abyss
